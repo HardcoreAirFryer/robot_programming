@@ -1,0 +1,25 @@
+
+# Consider dependencies only in project.
+set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)
+
+# The set of languages for which implicit dependencies are needed:
+set(CMAKE_DEPENDS_LANGUAGES
+  )
+
+# The set of dependency files which are needed:
+set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "/Users/federicoubaldi/Desktop/università/AIRO LM/Robot Programming/robotprogramming_2023_24-main-source-rp_01_compilers_and_build_systems-02_so_game/source/rp_01_compilers_and_build_systems/02_so_game/helpers.c" "CMakeFiles/so_game.dir/helpers.c.o" "gcc" "CMakeFiles/so_game.dir/helpers.c.o.d"
+  "/Users/federicoubaldi/Desktop/università/AIRO LM/Robot Programming/robotprogramming_2023_24-main-source-rp_01_compilers_and_build_systems-02_so_game/source/rp_01_compilers_and_build_systems/02_so_game/image.c" "CMakeFiles/so_game.dir/image.c.o" "gcc" "CMakeFiles/so_game.dir/image.c.o.d"
+  "/Users/federicoubaldi/Desktop/università/AIRO LM/Robot Programming/robotprogramming_2023_24-main-source-rp_01_compilers_and_build_systems-02_so_game/source/rp_01_compilers_and_build_systems/02_so_game/so_game.c" "CMakeFiles/so_game.dir/so_game.c.o" "gcc" "CMakeFiles/so_game.dir/so_game.c.o.d"
+  "/Users/federicoubaldi/Desktop/università/AIRO LM/Robot Programming/robotprogramming_2023_24-main-source-rp_01_compilers_and_build_systems-02_so_game/source/rp_01_compilers_and_build_systems/02_so_game/surface.c" "CMakeFiles/so_game.dir/surface.c.o" "gcc" "CMakeFiles/so_game.dir/surface.c.o.d"
+  "/Users/federicoubaldi/Desktop/università/AIRO LM/Robot Programming/robotprogramming_2023_24-main-source-rp_01_compilers_and_build_systems-02_so_game/source/rp_01_compilers_and_build_systems/02_so_game/vec3.c" "CMakeFiles/so_game.dir/vec3.c.o" "gcc" "CMakeFiles/so_game.dir/vec3.c.o.d"
+  "/Users/federicoubaldi/Desktop/università/AIRO LM/Robot Programming/robotprogramming_2023_24-main-source-rp_01_compilers_and_build_systems-02_so_game/source/rp_01_compilers_and_build_systems/02_so_game/vehicle.c" "CMakeFiles/so_game.dir/vehicle.c.o" "gcc" "CMakeFiles/so_game.dir/vehicle.c.o.d"
+  "/Users/federicoubaldi/Desktop/università/AIRO LM/Robot Programming/robotprogramming_2023_24-main-source-rp_01_compilers_and_build_systems-02_so_game/source/rp_01_compilers_and_build_systems/02_so_game/world.c" "CMakeFiles/so_game.dir/world.c.o" "gcc" "CMakeFiles/so_game.dir/world.c.o.d"
+  )
+
+# Targets to which this target links which contain Fortran sources.
+set(CMAKE_Fortran_TARGET_LINKED_INFO_FILES
+  )
+
+# Fortran module output directory.
+set(CMAKE_Fortran_TARGET_MODULE_DIR "")
